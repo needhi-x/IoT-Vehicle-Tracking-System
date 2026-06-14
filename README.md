@@ -98,6 +98,16 @@ Widgets:
 
 ---
 
+## 📸 Project Output
+
+### 🔌 Circuit Simulation (Wokwi)
+![Circuit Diagram](images/wokwi_circuit.png)
+
+### 📊 ThingSpeak Live Dashboard
+![ThingSpeak Graph](images/thingspeak_dashboard.png)
+
+---
+
 ## 🚨 Working Principle
 
 1. Vehicle location is simulated using Python  
